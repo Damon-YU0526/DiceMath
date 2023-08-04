@@ -1,0 +1,48 @@
+D:\D101 - Software Development\2017\Week1 Intro\Dice\Dice\bin\Debug\Dice.exe.config
+D:\D101 - Software Development\2017\Week1 Intro\Dice\Dice\bin\Debug\Dice.exe
+D:\D101 - Software Development\2017\Week1 Intro\Dice\Dice\bin\Debug\Dice.pdb
+D:\D101 - Software Development\2017\Week1 Intro\Dice\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+D:\D101 - Software Development\2017\Week1 Intro\Dice\Dice\obj\Debug\Dice.Form1.resources
+D:\D101 - Software Development\2017\Week1 Intro\Dice\Dice\obj\Debug\Dice.Properties.Resources.resources
+D:\D101 - Software Development\2017\Week1 Intro\Dice\Dice\obj\Debug\Dice.csproj.GenerateResource.Cache
+D:\D101 - Software Development\2017\Week1 Intro\Dice\Dice\obj\Debug\Dice.exe
+D:\D101 - Software Development\2017\Week1 Intro\Dice\Dice\obj\Debug\Dice.pdb
+D:\D101 - Software Development\2017\Week1 Intro\DiceMath\Dice\bin\Debug\Dice.exe.config
+D:\D101 - Software Development\2017\Week1 Intro\DiceMath\Dice\obj\Debug\Dice.exe
+D:\D101 - Software Development\2017\Week1 Intro\DiceMath\Dice\obj\Debug\Dice.pdb
+D:\D101 - Software Development\2017\Week1 Intro\DiceMath\Dice\bin\Debug\Dice.exe
+D:\D101 - Software Development\2017\Week1 Intro\DiceMath\Dice\bin\Debug\Dice.pdb
+D:\D101 - Software Development\2017\Week1 Intro\DiceMath\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+D:\D101 - Software Development\2017\Week1 Intro\DiceMath\Dice\obj\Debug\Dice.Form1.resources
+D:\D101 - Software Development\2017\Week1 Intro\DiceMath\Dice\obj\Debug\Dice.Properties.Resources.resources
+D:\D101 - Software Development\2017\Week1 Intro\DiceMath\Dice\obj\Debug\Dice.csproj.GenerateResource.Cache
+D:\D101 - Software Development\2017\Week2 If\DiceMath\Dice\bin\Debug\Dice.exe.config
+D:\D101 - Software Development\2017\Week2 If\DiceMath\Dice\obj\Debug\Dice.exe
+D:\D101 - Software Development\2017\Week2 If\DiceMath\Dice\obj\Debug\Dice.pdb
+D:\D101 - Software Development\2017\Week2 If\DiceMath\Dice\bin\Debug\Dice.exe
+D:\D101 - Software Development\2017\Week2 If\DiceMath\Dice\bin\Debug\Dice.pdb
+D:\D101 - Software Development\2017\Week2 If\DiceMath\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+D:\D101 - Software Development\2017\Week2 If\DiceMath\Dice\obj\Debug\Dice.Form1.resources
+D:\D101 - Software Development\2017\Week2 If\DiceMath\Dice\obj\Debug\Dice.Properties.Resources.resources
+D:\D101 - Software Development\2017\Week2 If\DiceMath\Dice\obj\Debug\Dice.csproj.GenerateResource.Cache
+E:\DiceMath\Dice\bin\Debug\Dice.exe.config
+E:\DiceMath\Dice\bin\Debug\Dice.exe
+E:\DiceMath\Dice\bin\Debug\Dice.pdb
+E:\DiceMath\Dice\obj\Debug\Dice.csprojAssemblyReference.cache
+E:\DiceMath\Dice\obj\Debug\Dice.Form1.resources
+E:\DiceMath\Dice\obj\Debug\Dice.Properties.Resources.resources
+E:\DiceMath\Dice\obj\Debug\Dice.csproj.GenerateResource.cache
+E:\DiceMath\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+E:\DiceMath\Dice\obj\Debug\Dice.exe
+E:\DiceMath\Dice\obj\Debug\Dice.pdb
+E:\Year 1\2019第二学期\5003编程\DiceMath\Dice\bin\Debug\Dice.exe.config
+E:\Year 1\2019第二学期\5003编程\DiceMath\Dice\bin\Debug\Dice.exe
+E:\Year 1\2019第二学期\5003编程\DiceMath\Dice\bin\Debug\Dice.pdb
+E:\Year 1\2019第二学期\5003编程\DiceMath\Dice\obj\Debug\Dice.csproj.AssemblyReference.cache
+E:\Year 1\2019第二学期\5003编程\DiceMath\Dice\obj\Debug\Dice.csproj.SuggestedBindingRedirects.cache
+E:\Year 1\2019第二学期\5003编程\DiceMath\Dice\obj\Debug\Dice.Form1.resources
+E:\Year 1\2019第二学期\5003编程\DiceMath\Dice\obj\Debug\Dice.Properties.Resources.resources
+E:\Year 1\2019第二学期\5003编程\DiceMath\Dice\obj\Debug\Dice.csproj.GenerateResource.cache
+E:\Year 1\2019第二学期\5003编程\DiceMath\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+E:\Year 1\2019第二学期\5003编程\DiceMath\Dice\obj\Debug\Dice.exe
+E:\Year 1\2019第二学期\5003编程\DiceMath\Dice\obj\Debug\Dice.pdb
